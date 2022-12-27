@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.exe
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.deps.json
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.dll
+C:\Users\Дмитрий\source\repos\Философы\bin\Debug\netcoreapp3.1\Философы.pdb
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.dll
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.pdb
+C:\Users\Дмитрий\source\repos\Философы\obj\Debug\netcoreapp3.1\Философы.genruntimeconfig.cache
